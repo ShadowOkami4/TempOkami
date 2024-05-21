@@ -1,4 +1,7 @@
+<img src="https://github.com/ShadowOkami4/TempOkami/assets/54201724/837f4c6b-38c8-47f6-bfbc-e6688ec89f9b" alt="Logo" width="1000"/>
+
 # TempOkami
+
 
 TempOkami is a Discord bot designed to streamline temporary channel management in Discord servers. It leverages a Client/Server design, where the server is an existing channel that can create temporary channels (clients) upon user request. Temporary channels automatically close if no users are present, helping keep your server organized and clutter-free.
 
